@@ -1,4 +1,4 @@
-# React presentation made with Spectacle from Formidable Labs
+# Videodromm presentation made with Spectacle from Formidable Labs
 
 ## Reference
 
