@@ -8,7 +8,7 @@ var config = require("./webpack.config");
 var app = express();
 var compiler = webpack(config);
 
-var serverPort = process.env.PORT || 3033;
+var serverPort = process.env.PORT || 3032;
 
 app.use(require("webpack-dev-middleware")(compiler, {
   noInfo: true,
